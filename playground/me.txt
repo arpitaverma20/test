@@ -1,5 +1,0 @@
-{{#user}}
-Name: Arpita Verma
-Skills: HTML, CSS, JS, Next.js
-Email:vermaarpita20@gmail.com
-{{/user}}
